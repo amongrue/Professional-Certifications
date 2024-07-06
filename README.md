@@ -9,12 +9,14 @@ Professional-Certifications consists of  Professional Certifications CompTIA Cyb
 <br />
 
 <p align="center">
+ 
 WGU Master of Science Cybersecurity and Information Assurance: <br/>
+
 <img src="https://imgur.com/azpWXXM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+University of California, Davis Cyber Security BootCamp<br/>
+<img src="https://imgur.com/ntzjgBK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
