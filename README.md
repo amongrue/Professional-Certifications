@@ -37,6 +37,9 @@ PenTest+ Professional Certification:  <br/>
 CompTIA Security+ :  <br/>
 <img src="https://imgur.com/6AyU1Dj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+CompTIA CySA+ :  <br/>
+<img src="https://imgur.com/9pSimiH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <!--
  ```diff
