@@ -26,8 +26,8 @@ PenTest+ Professional Certification:  <br/>
 <img src="https://imgur.com/tMsLuyU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ PenTest+ Excellence Certification Awarded By WGU: <br/>
+<img src="https://imgur.com/uIVMWS5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
