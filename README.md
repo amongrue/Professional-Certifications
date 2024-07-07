@@ -19,8 +19,8 @@ University of California, Davis Cyber Security BootCamp<br/>
 <img src="https://imgur.com/ntzjgBK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+WOZ U Cyber Security Hands On (Apprenticeship by Cyber Proud): <br/>
+<img src="https://imgur.com/ysL2KPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
