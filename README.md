@@ -8,8 +8,7 @@ CompTIA Cybersecurity Analyst (CySA+) CompTIA PenTest+Sec +, Network + CompTIA A
 Professional-Certifications consists of  Professional Certifications CompTIA Cybersecurity Analyst (CySA+) CompTIA PenTest+Sec +, Network + CompTIA Advanced Security Practitioner (CASP+) Optional Voucher ISACA Certified Information Security Manager (CISM),Dark web, Anonymity, Cryptocurrency, Networking , SQL Injection Attacks, Python, Network Defense, Cybersecurity, Digital Forensics and etc..
 <br />
 
-<p align="center">
- 
+<p align="center"> 
 WGU Master of Science Cybersecurity and Information Assurance: <br/>
 
 <img src="https://imgur.com/azpWXXM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -23,8 +22,8 @@ WOZ U Cyber Security Hands On (Apprenticeship by Cyber Proud): <br/>
 <img src="https://imgur.com/ysL2KPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+PenTest+ Professional Certification:  <br/>
+<img src="https://imgur.com/tMsLuyU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
