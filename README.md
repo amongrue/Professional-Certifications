@@ -34,8 +34,8 @@ PenTest+ Professional Certification:  <br/>
 <img src="https://imgur.com/MHxvf6o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+CompTIA Security+ :  <br/>
+<img src="https://imgur.com/6AyU1Dj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
